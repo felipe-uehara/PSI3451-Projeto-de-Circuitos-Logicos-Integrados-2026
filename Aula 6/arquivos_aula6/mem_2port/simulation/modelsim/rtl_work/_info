@@ -1,0 +1,172 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/simulation/modelsim
+Eclock_generator
+Z1 w1776359478
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/clock_generator.vhd
+Z5 FC:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/clock_generator.vhd
+l0
+L4
+Vd0No>ID:cWi_7A64in@:E0
+!s100 X^JdaX4Oe>YcKeiJ8`lQI2
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1776366076
+!i10b 1
+Z8 !s108 1776366076.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/clock_generator.vhd|
+Z10 !s107 C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/clock_generator.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Atest
+R2
+R3
+DEx4 work 15 clock_generator 0 22 d0No>ID:cWi_7A64in@:E0
+l20
+L18
+VWkDNoW15ZeF^B_RQI[UYn2
+!s100 ]k`QeK95PKLA35SzZ@bPb3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emem_2port
+Z13 w1776360053
+Z14 DPx9 altera_mf 20 altera_mf_components 0 22 gV:l9C^?PSb6]b5V?_jR@3
+R2
+R3
+R0
+Z15 8C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/mem_2port.vhd
+Z16 FC:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/mem_2port.vhd
+l0
+L42
+VA@nIFTk`oVI]hWh76A_113
+!s100 <0jT_TZnAA2iJ=Lk75_KW3
+R6
+31
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/mem_2port.vhd|
+Z18 !s107 C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/mem_2port.vhd|
+!i113 1
+R11
+R12
+Asyn
+R14
+R2
+R3
+DEx4 work 9 mem_2port 0 22 A@nIFTk`oVI]hWh76A_113
+l63
+L58
+V[zSHgD9CjEfjkgdElEI;;2
+!s100 O98zT_VJfV3?eHFa:aDR=2
+R6
+31
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Estimuli_mem_2port
+Z19 w1776365963
+Z20 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z21 8C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/stimuli_mem_2port.vhd
+Z22 FC:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/stimuli_mem_2port.vhd
+l0
+L6
+VSngKA?KZ8;::K;16OEbiQ1
+!s100 8WV8j0i9i`:0hY@Hj[ET82
+R6
+31
+R7
+!i10b 1
+R8
+Z23 !s90 -reportprogress|300|-93|-work|work|C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/stimuli_mem_2port.vhd|
+Z24 !s107 C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/stimuli_mem_2port.vhd|
+!i113 1
+R11
+R12
+Atest
+R20
+R2
+R3
+DEx4 work 17 stimuli_mem_2port 0 22 SngKA?KZ8;::K;16OEbiQ1
+l42
+L28
+VD>dzD157zRG7E?nLFS=NQ3
+!s100 iL;X<5LWaB5aP>WUB6zJ31
+R6
+31
+R7
+!i10b 1
+R8
+R23
+R24
+!i113 1
+R11
+R12
+Etb_mem_2port
+R1
+R20
+R2
+R3
+R0
+Z25 8C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/testbench_mem_2port.vhd
+Z26 FC:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/testbench_mem_2port.vhd
+l0
+L6
+VMoI02ML@So0CHVPF4VM_F1
+!s100 AegUWVH@6Q4ERRHIiTLPc0
+R6
+31
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-93|-work|work|C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/testbench_mem_2port.vhd|
+Z28 !s107 C:/Users/Aluno/Documents/Uehara/Aula 6/arquivos_aula8/mem_2port/testbench_mem_2port.vhd|
+!i113 1
+R11
+R12
+Atest
+R20
+R2
+R3
+DEx4 work 12 tb_mem_2port 0 22 MoI02ML@So0CHVPF4VM_F1
+l58
+L12
+Vgf91E;M@QGg4LZ[`V72EP2
+!s100 3Qa9o3B8ZJE85ZO9@ZdLc0
+R6
+31
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
